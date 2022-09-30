@@ -8,6 +8,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+    width: 100%;
     display: flex;
     flex-direction: column;
     background: rgb(255, 204, 1);
@@ -189,16 +190,16 @@ cursor: pointer;
     }
 
     .titulo h1 {
-        font-size: 25px;
+        font-size: 20px;
         padding: 2px 0;
     }
 
     .titulo b {
-        font-size: 25px;
+        font-size: 20px;
         padding: 2px 0;
     }
     .titulo nobr {
-        font-size: 25px;
+        font-size: 20px;
         padding: 2px 0;
     }
 }
@@ -320,15 +321,11 @@ cursor: pointer;
     .box1img img{
         width: 100%;
     height: 100%;
-    padding: 0 10px;
     }
 }
     
     
-    .titulo nobr {
-        font-size: 25px;
-        padding: 2px 0;
-    }
+   
 
 
 
