@@ -190,16 +190,16 @@ cursor: pointer;
     }
 
     .titulo h1 {
-        font-size: 20px;
+        font-size: 22px;
         padding: 2px 0;
     }
 
     .titulo b {
-        font-size: 20px;
+        font-size: 22px;
         padding: 2px 0;
     }
     .titulo nobr {
-        font-size: 20px;
+        font-size: 22px;
         padding: 2px 0;
     }
 }
@@ -769,8 +769,8 @@ background-color: #9B0000;
 
 
 .IgImg {
-    
     height: 100px;
+    width: 50%;
 }
 
 .IgText {
@@ -896,7 +896,7 @@ footer{
     font-family: 'Belgrano', serif;
 font-style: normal;
 font-weight: 400;
-font-size: 13px;
+font-size: 12px;
 line-height: 25px;
 
 }
